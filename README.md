@@ -66,7 +66,7 @@ To ensure our checkout system works as expected, we have written tests that can 
 ![Alt text](./supermarket_app_test_results.png "Test Results")
 5. If you wish to see a coverage report, you can install pytest-cov and then run pytest with the coverage option:
 
-    ```basch
+    ```bash
     pip install pytest-cov
     pytest --cov=.
     ```
